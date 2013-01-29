@@ -1,4 +1,4 @@
 demo
 ====
 
-A demo project for my Java class
+A demo project for my Java class.
